@@ -8,35 +8,30 @@ nav_order: 2
 
 <div class="post">
   <div class="header-bar">
-    <h1>Research Themes</h1>
-    <h2>A brief overview of my research interests and topics</h2>
+    <h1>Research</h1>
+    <p>Here is an overview of my current and past research endeavors along with future directions I'm excited to explore.</p>
   </div>
-</div>  <!-- Ensure HTML is closed before starting Markdown -->
+</div> <!-- Ensure HTML is closed before starting Markdown -->
 
-## Current Research Topics
+## Current Projects
 
-Here, you can detail the topics you're currently exploring, such as:
+Detail your active research projects here, emphasizing the main focus and goals:
 
-- **Topic One:** Description of topic one.
-- **Topic Two:** Description of topic two.
-- **Topic Three:** Description of topic three.
+- **Project One:** Brief description and key objectives.
+- **Project Two:** Overview of project scope and your role.
 
 ## Past Research
 
-Highlight any past research or important projects:
+Summarize completed projects or prior research areas that have contributed to your current interests:
 
-- **Past Topic One:** Summary of past topic one.
-- **Past Topic Two:** Summary of past topic two.
+- **Past Project One:** Key findings and relevance.
+- **Past Project Two:** Summary of the project and its impact.
 
 ## Future Directions
 
-Discuss any future research areas you are interested in:
+Outline the areas of research you are planning to explore in the future:
 
-- **Future Topic One:** Potential research interests.
-- **Future Topic Two:** Areas of planned exploration.
+- **Future Area One:** What you aim to investigate and why it matters.
+- **Future Area Two:** Potential projects and your preparatory steps.
 
-## Images and Diagrams
-
-If you wish to include images, you can do so like this:
-
-<!-- It's good practice to keep HTML blocks cleanly separated from Markdown to avoid formatting issues -->
+<!-- Remember to separate HTML and Markdown cleanly to avoid formatting issues -->
