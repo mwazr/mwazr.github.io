@@ -4,6 +4,13 @@ permalink: /research/
 title: Research
 nav: true
 nav_order: 2
+_styles: |
+  .header-bar h1 {
+    font-size: 24px;  /* Adjusts the title size to be less prominent */
+  }
+  .header-bar p {
+    font-size: 16px;  /* Optional: Adjust description text size for consistency */
+  }
 ---
 
 <div class="post">
