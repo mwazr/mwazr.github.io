@@ -110,7 +110,15 @@
       "courses": [
         {
           "name": "Economic Concepts",
-          "terms": ["Fall 2021", "Fall 2022", "Spring 2022", "Spring 2023", "Summer 2021", "Summer 2022", "Summer 2023"]
+          "terms": [
+            "Fall 2021",
+            "Fall 2022",
+            "Spring 2022",
+            "Spring 2023",
+            "Summer 2021",
+            "Summer 2022",
+            "Summer 2023"
+          ]
         }
       ]
     },
@@ -173,7 +181,14 @@
         "Algorithmic Text Analysis (using LLMs, TF-IDF, LDA, n-grams, word embeddings)"
       ],
       "languages": ["Python", "MATLAB", "R", "Mathematica"],
-      "software": ["LaTeX", "Git/GitHub", "SQL", "Simulink", "SolidWorks", "FieldView"]
+      "software": [
+        "LaTeX",
+        "Git/GitHub",
+        "SQL",
+        "Simulink",
+        "SolidWorks",
+        "FieldView"
+      ]
     }
   ]
 }
