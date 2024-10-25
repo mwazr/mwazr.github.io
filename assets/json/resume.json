@@ -12,7 +12,6 @@
       "location": "Clemson, SC",
       "area": "Economics",
       "studyType": "Ph.D.",
-      "startDate": "2021-08-01",
       "endDate": "2025-05-01"
     },
     {
@@ -20,7 +19,6 @@
       "location": "University Park, PA",
       "area": "Aerospace Engineering (Astronautics)",
       "studyType": "B.S.",
-      "startDate": "2015-08-01",
       "endDate": "2019-05-01"
     },
     {
@@ -28,7 +26,6 @@
       "location": "University Park, PA",
       "area": "Economics (Minor: Mathematics)",
       "studyType": "B.S.",
-      "startDate": "2015-08-01",
       "endDate": "2019-05-01"
     }
   ]
