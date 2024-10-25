@@ -2,11 +2,9 @@
   "basics": {
     "name": "Mustafa W. Alam",
     "label": "Ph.D. Candidate in Economics",
-    "image": "",
     "email": "mustafa@g.clemson.edu",
     "phone": "(814) 880-8957",
     "url": "https://mwazr.github.io",
-    "summary": "",
     "location": {
       "address": "255 Walter T Cox Blvd",
       "postalCode": "29634",
@@ -17,8 +15,7 @@
     "profiles": [
       {
         "network": "Office",
-        "username": "312J Powers College of Business",
-        "url": ""
+        "username": "312J Powers College of Business"
       }
     ]
   },
@@ -28,30 +25,21 @@
       "location": "Clemson, SC",
       "area": "Economics",
       "studyType": "Ph.D.",
-      "startDate": "",
-      "endDate": "2025 (expected)",
-      "score": "",
-      "courses": []
+      "endDate": "2025 (expected)"
     },
     {
       "institution": "Penn State University",
       "location": "University Park, PA",
       "area": "Aerospace Engineering (Astronautics)",
       "studyType": "B.S.",
-      "startDate": "",
-      "endDate": "2019",
-      "score": "",
-      "courses": []
+      "endDate": "2019"
     },
     {
       "institution": "Penn State University",
       "location": "University Park, PA",
       "area": "Economics (Minor: Mathematics)",
       "studyType": "B.S.",
-      "startDate": "",
-      "endDate": "2019",
-      "score": "",
-      "courses": []
+      "endDate": "2019"
     }
   ],
   "researchFields": [
@@ -66,8 +54,7 @@
       "papers": [
         {
           "title": "Media Bias and Offline Polarization in the Online Era",
-          "status": "Job Market Paper",
-          "url": ""
+          "status": "Job Market Paper"
         }
       ]
     },
@@ -75,20 +62,14 @@
       "category": "Work in Progress",
       "papers": [
         {
-          "title": "An LLM-aided Measure of Media Bias from Social Media Text Data",
-          "status": "",
-          "url": ""
+          "title": "An LLM-aided Measure of Media Bias from Social Media Text Data"
         },
         {
           "title": "Optimal Supply of Fact-Checking in a Compartmental Model of Misinformation Propagation",
-          "collaborators": ["Patrick Warren", "Morgan Wack"],
-          "status": "",
-          "url": ""
+          "collaborators": ["Patrick Warren", "Morgan Wack"]
         },
         {
-          "title": "Evolution of Political Information Ecosystem on YouTube: A Co-Subscription Network Approach",
-          "status": "",
-          "url": ""
+          "title": "Evolution of Political Information Ecosystem on YouTube: A Co-Subscription Network Approach"
         }
       ]
     },
@@ -148,27 +129,19 @@
   "awards": [
     {
       "title": "Media Forensics Hub Summer Assistantship",
-      "date": "",
-      "awarder": "Clemson University",
-      "summary": ""
+      "awarder": "Clemson University"
     },
     {
       "title": "The Francis M. and Herman N. Hipp Fellowship",
-      "date": "",
-      "awarder": "Clemson University",
-      "summary": ""
+      "awarder": "Clemson University"
     },
     {
       "title": "Charles G. Koch Annual Fellowship",
-      "date": "",
-      "awarder": "Clemson University",
-      "summary": ""
+      "awarder": "Clemson University"
     },
     {
       "title": "John E. Walker Department of Economics Assistantship",
-      "date": "",
-      "awarder": "Clemson University",
-      "summary": ""
+      "awarder": "Clemson University"
     }
   ],
   "skills": [
