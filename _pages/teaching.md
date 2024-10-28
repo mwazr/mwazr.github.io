@@ -13,7 +13,7 @@ nav_order: 3
 
 ### Teaching Assistant 
 
-**Principles of Macroeconomics** (Spring 2021)
-**Financial Economics** (Spring 2021)
-**Intermediate Microeconomics** (Spring 2020, 21)
+**Principles of Macroeconomics** (Spring 2021)  
+**Financial Economics** (Spring 2021)  
+**Intermediate Microeconomics** (Spring 2020, 21)  
 **Principles of Microeconomics** (Fall 2020)
