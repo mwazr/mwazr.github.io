@@ -9,8 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>312J Powers College of Business</p>
-    <p>Clemson University</p>
+    <p>312J Powers College of Business, Clemson University</p>
     <p>Clemson, SC 29631</p>
 
 news: false # includes a list of news items
