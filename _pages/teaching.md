@@ -7,6 +7,13 @@ nav: true
 nav_order: 3
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+### Graduate Instructor of Record 
 
-Organize your courses by years, topics, or universities, however you like!
+**Economic Concepts.** Semesters: Fall 2021, 22; Spring 2022, 23 & Summer 2021, 22, 23.
+
+### Teaching Assistant 
+
+**Principles of Macroeconomics** (Spring 2021)
+**Financial Economics** (Spring 2021)
+**Intermediate Microeconomics** (Spring 2020, 21)
+**Principles of Microeconomics** (Fall 2020)
