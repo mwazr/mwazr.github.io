@@ -7,8 +7,6 @@ nav: true
 nav_order: 2
 ---
 
-## Research
-
 ### Working Papers
 
 - **Paper Title One**: Optional brief description.
