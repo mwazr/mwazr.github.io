@@ -11,7 +11,7 @@ nav_order: 2
 
 ### “Traditional Media Bias and Offline Polarization in the Online Era”
 
-**Abstract**  
+**Abstract**
 Television news has become increasingly partisan in recent decades, while the U.S. population's self-reported ideological distribution has remained stable. Concurrently, political polarization has risen, particularly among demographic groups least likely to use the Internet. This paper presents a theory that ties these observations together. I show that if developments in a substitute platform tend to attract better-informed audiences away from traditional media firms, they strategically respond with an increase in slanted reporting — despite no changes in the ideological distribution of the population. This rise of slant leads to increased partisan disagreements among less-informed audiences who rely more on traditional media. To empirically investigate an implication of the theory, I collect a novel dataset of Facebook posts from 600 U.S. local television news channels from 2012 to 2016. I perform an algorithmic text analysis to measure partisanship changes in news and find that markets with greater increases in moderately high-speed Internet connections also exhibit larger increases in local news partisanship. 
 
 ## Work In Progress
