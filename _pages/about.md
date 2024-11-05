@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: "<a href='#'>Affiliations</a>. Ph.D. Canidate, Department of Economics, Clemson University."
+subtitle: "<a href='#'>Affiliation</a>. Ph.D. Candidate, Department of Economics, Clemson University."
 
 profile:
   align: right
