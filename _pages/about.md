@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 subtitle: |
-  <a href='#'>Affiliation</a>.
+  <a href='#'>Affiliations</a>:
   <ul>
     <li>Ph.D. Candidate, Department of Economics, Clemson University</li>
     <li>Research Assistant, Clemson Media Forensics Hub</li>
@@ -24,3 +24,5 @@ social: true # includes social icons at the bottom of the page
 ---
 
 I am a microeconomist with research interests in the industrial organization of information producers and the political economy of media markets. My work uses microeconomic theory, applied econometrics, and machine learning to investigate the dynamics of information environments and their broader societal impacts. You can explore the research section of this website for a more detailed overview of my projects and findings.
+
+I am on the 2024-2025 job market and available for interviews. 
