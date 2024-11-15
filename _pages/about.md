@@ -2,7 +2,13 @@
 layout: about
 title: About
 permalink: /
-subtitle: "<a href='#'>Affiliation</a>. Ph.D. Candidate, Department of Economics, Clemson University; Research Assistant, Clemson Media Forensics Hub."
+subtitle: |
+  <a href='#'>Affiliation</a>.
+  <ul>
+    <li>Ph.D. Candidate, Department of Economics, Clemson University</li>
+    <li>Research Assistant, Clemson Media Forensics Hub</li>
+  </ul>
+
 
 profile:
   align: right
