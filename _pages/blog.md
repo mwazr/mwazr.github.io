@@ -14,8 +14,6 @@ nav_order: 2
 **Abstract.**
 I demonstrate that political polarization can intensify due to innovations in the information market even if a population’s ideological distribution is fixed. Viewership-maximizing news firms cater to a diverse audience who assess source accuracy using noisy private signals that vary in precision and ideological bias. If better-informed consumers disproportionately migrate to newer platforms for news (e.g., the Internet), traditional media firms increase news slant to appeal more to less-informed partisans on both sides of the ideological spectrum. This leads to a greater divergence in beliefs about the state of the world among partisan traditional media audiences—increasing disagreements and potential hostility. The theory helps explain two empirical trends observed over recent decades: (i) rising slant in traditional news (e.g., cable television news) and (ii) increasing polarization among demographic groups least likely to use the Internet. I test the model’s central mechanism using an algorithmic text analysis of Facebook posts from 600 U.S. local television news stations. Media markets with greater expansions in moderately high-speed Internet access between 2012 and 2016 exhibit significantly larger increases in news slant, controlling for economic, demographic, and voting characteristics.
 
-## Work In Progress
-
 ### “An LLM-Aided Measure of Media Slant”
 
 **Abstract.**
